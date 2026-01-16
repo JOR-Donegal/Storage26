@@ -1,18 +1,19 @@
 # Introduction
 
-!!! abstract "This site contains basic notes in PROGRAMME."
+!!! abstract "This site contains basic notes in Storage Technology for MSc on Campus."
 
 
-Welcome to this module, PROGRAMME. I plan and orchestrate my modules with 10 weeks of content, weeks 2-11. This iteration of the module was arranged for e-delivery for remote students.
+Welcome to this program of study, __Storage__. I plan and orchestrate my modules with 10 weeks of content, weeks 2-11. This iteration of the module was arranged for e-delivery for remote students.
 
 I reserve week 1 for introductions and getting started.
 
 The major areas covered in weeks 2-11 are
 
-- Topic 1
-- Topic 2
-- Topic 3
-- Topic 4  
+- Hardware
+- Reliability Engineering
+- Storage Organisation and Design
+- Technology
+- Data Storage Management
 
 I reserve week 12/13 for clean up at the end...or run over time if we need it.
 
