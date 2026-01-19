@@ -3,6 +3,8 @@ Go through my [Getting Started](https://jor-donegal.github.io/GettingStarted26/)
 
 So for this week, just some (light!) reading.
 
-## Actions
+## Theory
+1. I introduce some [storage fundamentals](https://johnoraw.gitbook.io/storage-theory)
 
-1. Do stuff, include a link with details
+## Practice
+1. Using a VM, I want you to so some very simple exercises.
