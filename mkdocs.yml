@@ -2,7 +2,7 @@ site_name: Storage
 site_url: https://example.com
 theme:
   name: readthedocs
-  logo: images/DeathStar.jpg
+  logo: images/disks.jpg
 
 copyright: Copyright © 2026, John O'Raw
 
