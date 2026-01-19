@@ -2,7 +2,7 @@
 
 
 <figure>
-<img src = "https://jor-donegal.github.io/PGDip-HCT/images/jor-edu2.jpg">
+<img src = "https://jor-donegal.github.io/Storage26/images/jor-edu.jpg">
 <figcaption></figcaption>
 </figure>
 
