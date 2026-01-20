@@ -3,6 +3,7 @@ Go through my [Getting Started](https://jor-donegal.github.io/GettingStarted26/)
 
 So for this week, just some (light!) reading and an exercise.
 Keep the outputs from the practical work, you will be submitting a lab report at the end of week 2.
+Just as an aide memoire, review my guidelines on [academic writing](https://johnoraw-education.gitbook.io/iac/academic-documentation/)
 
 ## Theory
 I introduce some [Storage Fundamentals](https://jor-donegal.github.io/StorageFundamentals26/) which you should read and understand.
