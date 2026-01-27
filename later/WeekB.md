@@ -5,7 +5,7 @@ By the time we get a ew weeks in, you will see that the performance of a storage
 Keep the outputs from the practical work, you will be submitting a lab report at the end of this work.
 
 ## Theory
-1. We will look at the memory heirarchy this week.
+1. We will look at the [memory heirarchy]() this week.
 
 ## Practice
 1. We need to examine the workings of any operating system with regard to the memory heirarchy. I will get you to do some exercies in Windows, but we could equally do this in any OS.
