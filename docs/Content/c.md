@@ -8,8 +8,8 @@ If this area is completely new to you, you're about to experience many new conce
 ## Theory
 First we need to understand storage at the highest level. We define block, file, object and stream storage, read through my notes on [Storage Organisation](https://jor-donegal.github.io/StorageOrganization26/a/).
 
-Once we have a storage volume, we need to break that up into usable partitions. Read through the notes on [Volume Organisation}(https://jor-donegal.github.io/VolumeOrganisation26/)
+Once we have a storage volume, we need to break that up into usable partitions. Read through the notes on [Volume Organisation](https://jor-donegal.github.io/VolumeOrganisation26/)
 
 ## Practice
-You will find this week's exercises tough! We are going to map an MBR partition in exactly the way we would for data recovery. And then worse, we will do the same with a GPT partition.
+You will find [this week's exercises](https://jor-donegal.github.io/PartitionTables26/) tough! We are going to map an MBR partition in exactly the way we would for data recovery. And then worse, we will do the same with a GPT partition. As always, save anything you need to create a report should you be required.
 
