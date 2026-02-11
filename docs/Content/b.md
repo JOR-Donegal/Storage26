@@ -5,7 +5,7 @@ By the time we get a few weeks in, you will see that the performance of a storag
 Keep the outputs from the practical work, you will be submitting a lab report at the end of this work.
 
 ## Theory
-1. We will look at the [memory heirarchy](https://jor-donegal.github.io/MemoryHierarchy26/) this week. This also introduces hard disks as secondary storage, for reasons which will hopefully become obvious.
+1. We will look at the [memory hierarchy](https://jor-donegal.github.io/MemoryHierarchy26/) this week. This also introduces hard disks as secondary storage, for reasons which will hopefully become obvious.
 
 ## Practice
-1. We need to examine the workings of any operating system with regard to the memory heirarchy. I will get you to do some [exercies in Windows](https://jor-donegal.github.io/WT26/e/), but we could equally do this in any OS.
+1. We need to examine the workings of any operating system with regard to the memory hierarchy. I will get you to do some [exercises in Windows](https://jor-donegal.github.io/WT26/e/), but we could equally do this in any OS.
