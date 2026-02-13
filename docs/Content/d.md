@@ -7,4 +7,4 @@ If you want to digger deeper or into other file systems, take a look at Brian Ca
 Read through and understand my notes on [File Systems Theory](https://jor-donegal.github.io/FileSystemTheory26/)  
 
 ## Practice
-I need to get you to go through some exercises on file system metadata again. These exercises will be on FAT only.
+I need to get you to go through some exercises on file system metadata again. These exercises will be on [FAT](https://jor-donegal.github.io/FAT26/) only.
