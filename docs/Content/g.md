@@ -1,4 +1,4 @@
-# Week 8
+# Week 7
 For the first time this week, we're going to examine storage appliances and implement one of them.
 
 ## Theory
