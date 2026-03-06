@@ -13,6 +13,8 @@ Whenever we have plots of X/Y, we will typically use linear regression to charac
 
 What we have done here is a good estimate only.
 
+Also read through some simple notes on [Business Continuity and Disaster Recovery](https://jor-donegal.github.io/BCandDR26/). These are appropriate for an SME or small site only.
+
 ## Practice
 In the theory notes this week, we examined Single Disk Performance. Using the same methodology, carry out these measurements on your laptop! I want you to gain an understanding of spinning disk performance HDD or SSD.
 
