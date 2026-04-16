@@ -1,7 +1,8 @@
 # Week 8
+
 The definition for devices is often a little nebulous, but for my modules a SAN is a specialized device to do _block storage_. It will be highly reliable, with its own dedicated back end network, of redundant high speed connections.
 
-The main technologies we use are iSCSI, which we have already seen, and Fibre Channel, which we will look at before the end of this module.
+The main technologies we use are iSCSI, which we have already seen, and Fibre Channel, which we will look at in week 10 & 11.
 
 We will do these exercises using Dell Isilon technology.
 

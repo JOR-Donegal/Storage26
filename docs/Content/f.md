@@ -1,21 +1,29 @@
 # Week 6
+
 Underlying theory is great! But without the ability to do calculations, it's not engineering. This week in theory I want to dig into the physical properties of discs and get to the point where you can do meaningful calculations on our key performance values.
 
 - Capacity
 - Performance
 - Availability
 
+There is only one correct way to study this.
+
+As you learn something and get the equations for it, create a new sheet in Excel. Put in known values with known results so you can verify your sheet's accuracy.
+
 ## Theory
+
 Read through and understand my notes on [Storage Reliability](https://johnoraw.gitbook.io/storage-theory/storage-reliability)  
 
 Even though I used some equations in this exercise, the math was very simple. If I were doing this in a professional environment, I would need more rigour to my testing. I would perform many tests and ensure consistent results, quantifying the differences from test to test.
-Whenever we have plots of X/Y, we will typically use linear regression to characterize our results. We end up with a line in the form Y=MX+C which you may remember from second level geometry. And we calculate all the values we normally associate with regression theory. 
+
+Whenever we have plots of X/Y, we will typically use _linear regression_ to characterize our results. We end up with a line in the form _Y=MX+C_ which you may remember from second level geometry. And we calculate all the values we normally associate with regression theory.
 
 What we have done here is a good estimate only.
 
 Also read through some simple notes on [Business Continuity and Disaster Recovery](https://jor-donegal.github.io/BCandDR26/). These are appropriate for an SME or small site only.
 
 ## Practice
+
 In the theory notes this week, we examined Single Disk Performance. Using the same methodology, carry out these measurements on your laptop! I want you to gain an understanding of spinning disk performance HDD or SSD.
 
 You can use the tool of your choice for the calculations. I user __HDTune Pro__, free version.

@@ -17,15 +17,19 @@ The major areas covered in weeks 2-11 are
 
 I reserve week 12/13 for clean up at the end...or run over time if we need it.
 
-This module is intended for students who already have some background in scripting and automation, networking and operating systems. It is assumed you already have an undergraduate degree in computing or a similar discipline. The material is thus pitched at people who can self-learn. The content and structure of this module was created c. 2015 and last revised in 2022. It is updated annually. 
+This module is intended for students who already have some background in scripting and automation, networking and operating systems. It is assumed you already have an undergraduate degree in computing or a similar discipline. The material is thus pitched at people who can self-learn. The structure of this module was created c. 2015 and last revised in 2022. The content is updated annually.
 
 Over the years, as I've tried to teach low level data storage structures theoretically with poor outcomes in terms of student learning. In the early part of this course, I get you to work with some practical low-level data and metadata work, material I would normally only teach on a forensics course. This has given much better results in student understanding. You may find this difficult, but it is essential.
 
 If you are doing this module remotely, you need a good modern computer, review my [Getting Started](https://jor-donegal.github.io/GettingStarted26/i/) notes to understand what you need.
 
+These notes are intended to be a starting point for your studies, not the end point. Read widely around the topic!
+
+
 ## Copyright
+
 The content of these notes are (c) John ORaw 2026.
 
 I have tried to acknowledge and cite sources, if you think I have missed crediting someone else's work, please contact me by university e-mail and I will remedy.
 
-If you find errors in my notes or something has been superseded without me noticing, please let me know. The pace of technological development assures that my notes have a very short shelf life. They are intended to be a starting point for your studies, not the end point.
+If you find errors in my notes or something has been superseded without me noticing, please let me know. The pace of technological development assures that my notes have a very short shelf life. 
