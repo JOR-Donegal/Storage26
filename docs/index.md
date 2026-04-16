@@ -1,9 +1,9 @@
 # Introduction
 
-!!! abstract "This site contains basic notes in Storage Technology for MSc on Campus."
+!!! abstract "This site contains basic notes in Storage Technology for L9 programmes on Campus."
 
 
-Welcome to this program of study, __Storage__. I plan and orchestrate my modules with 10 weeks of examinable content, weeks 2-11. This iteration of the module was arranged for local delivery on campus.
+Welcome to this program of study, __Storage Technology__. I plan and orchestrate my modules with 10 weeks of examinable content, weeks 2-11. This iteration of the module was arranged for local delivery on campus.
 
 I reserve week 1 for introductions and getting started.
 
