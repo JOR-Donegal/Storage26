@@ -3,7 +3,7 @@
 !!! abstract "This site contains basic notes in Storage Technology for MSc on Campus."
 
 
-Welcome to this program of study, __Storage__. I plan and orchestrate my modules with 10 weeks of content, weeks 2-11. This iteration of the module was arranged for e-delivery for remote students.
+Welcome to this program of study, __Storage__. I plan and orchestrate my modules with 10 weeks of examinable content, weeks 2-11. This iteration of the module was arranged for local delivery on campus.
 
 I reserve week 1 for introductions and getting started.
 
@@ -11,7 +11,7 @@ The major areas covered in weeks 2-11 are
 
 - Hardware
 - Reliability Engineering
-- Storage Organisation and Design
+- Storage Organization and Design
 - Technology
 - Data Storage Management
 
